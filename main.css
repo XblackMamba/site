@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #444444;
+}
+
+h1 {
+  width: 255px;
+  margin: 0 auto 8px;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 64px;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+   
+   .site-header 
+  {
+  min-width: 550px;
+  height: 186px;
+  margin-bottom: 150px;
+  padding-top: 30px;
+  background: #847462 no-repeat center url("https://sun9-west.userapi.com/sun9-16/s/v1/ig2/IrNqd5ue6nRJaEGV-kB1VB4Q--Kka_RWIATwCTEAR3iQuoI7MV9b5e9bRc7NYdOcUjwqFrQtFRKbBNVNtLgCOvS5.jpg?size=660x660&quality=96&type=album");
+  background-size: cover;
+  color: #ffffff;
+}
+
+P { /* Обычный абзац */
+    text-align: justify; /* Выравнивание текста по ширине */
+}
+
+    P.cite { /* Абзац с классом cite */
+        color: navy; /* Цвет текста */
+        margin-left: 20px; /* Отступ слева */
+        border-left: 1px solid navy; /* Граница слева от текста */
+        padding-left: 15px; /* Расстояние от линии до текста */
+    }
