@@ -23,16 +23,15 @@ h1 {
   padding: 0 20px;
 }
 
-   
-   .site-header 
-  {
-  min-width: 150px;
-  height: 150px;
-  margin-bottom: 150px;
-  padding-top: 30px;
-  background: #847462 no-repeat center url("https://sun9-west.userapi.com/sun9-16/s/v1/ig2/IrNqd5ue6nRJaEGV-kB1VB4Q--Kka_RWIATwCTEAR3iQuoI7MV9b5e9bRc7NYdOcUjwqFrQtFRKbBNVNtLgCOvS5.jpg?size=660x660&quality=96&type=album");
-  background-size: cover;
-  color: #ffffff;
+
+.site-header {
+    min-width: 150px;
+    height: 200px;
+    margin-bottom: 150px;
+    padding-top: 30px;
+    background: #847462 no-repeat center url("https://phonoteka.org/uploads/posts/2021-05/1620698267_9-phonoteka_org-p-cherno-belii-fon-minimalizm-10.jpg");
+    background-size: cover;
+    color: #ffffff;
 }
 
 .site-footer {
