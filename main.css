@@ -35,13 +35,29 @@ h1 {
   color: #ffffff;
 }
 
-P { /* Обычный абзац */
-    text-align: justify; /* Выравнивание текста по ширине */
+.site-footer {
+    min-width: 550px;
+    background-color: #847462;
+    color: #ffffff;
 }
 
-    P.cite { /* Абзац с классом cite */
-        color: navy; /* Цвет текста */
-        margin-left: 20px; /* Отступ слева */
-        border-left: 1px solid navy; /* Граница слева от текста */
-        padding-left: 15px; /* Расстояние от линии до текста */
+    .site-footer .container {
+        text-align: center;
     }
+
+    .site-footer p {
+        display: inline-block;
+        vertical-align: middle;
+        padding: 0 20px;
+    }
+
+/* P { /* Обычный абзац */
+/*    text-align: justify; /* Выравнивание текста по ширине */
+/* }
+
+    /*  P.cite { /* Абзац с классом cite */
+/*  color: navy; /* Цвет текста */
+/*   margin-left: 20px; /* Отступ слева */
+/*  border-left: 1px solid navy; /* Граница слева от текста */
+/*    padding-left: 15px; /* Расстояние от линии до текста */
+/*  }
